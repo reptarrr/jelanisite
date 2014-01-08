@@ -9,6 +9,8 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem "bootstrap-sass", "~> 3.0.3.0"
+gem "haml", "~> 4.0.5"
+
 
 
 group :doc do
